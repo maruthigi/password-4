@@ -1,0 +1,15 @@
+.container{
+    background-color:rgb(216, 204, 250);
+    text-transform: uppercase;
+}
+#butn{
+    background-color:rgb(233, 150, 122);
+    width: 200px;
+    border-radius: 10px;
+    height: 50px;
+    font-size: x-large;
+    border: none;
+}
+span{
+    color: rgba(0, 128, 0, 0.873);
+}
